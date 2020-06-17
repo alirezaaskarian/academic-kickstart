@@ -26,10 +26,11 @@ interests:
 - Machine Learning
 
 education:
-  - PhD in Mechanical Engineering
+  courses:
+  - course: PhD in Mechanical Engineering
     institution: Stanford University
-    year:
-  - BSc in Mechanical Engineering
+    year: 2021
+  - course: BSc in Mechanical Engineering
     institution: Sharif University of Technology
     year: 2015
 
