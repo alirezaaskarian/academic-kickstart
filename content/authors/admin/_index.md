@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Mechanical Engineering
-    institution: Stanford University
+    institution: University of Illinois, Urbana Champaign
     year: 2021
   - course: BSc in Mechanical Engineering
     institution: Sharif University of Technology
