@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student at UIUC
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Illinois, Urbana Champaign
+- name: University of Illinois Urbana Champaign
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
